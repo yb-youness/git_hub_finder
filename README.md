@@ -38,7 +38,7 @@ https://byounessgithubfinder0.netlify.app/
 https://github.com/settings/applications/new
 
 - You Need To Add in .env.local and add keyFor The Api <br>
-  `REACT_APP_GITHUB_CLIENT_ID=yourkey`
+  `REACT_APP_GITHUB_CLIENT_ID=yourkey`<br>
   `REACT_APP_GITHUB_CLIENT_SECRET=yoursecret`
 
 ---
